@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+![Karthikey Saxena's github stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&layout=compact)
+
 <!--
-**karthikeysaxena2507/karthikeysaxena2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507)](https://github.com/anuraghazra/github-readme-stats)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
