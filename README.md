@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Karthikey Saxena's github stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs)
+![Karthikey Saxena's github stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical)
 
 <!--
 Here are some ideas to get you started:
