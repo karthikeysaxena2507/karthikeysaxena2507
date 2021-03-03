@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=karthikeysaxena2507)
+
 ![Karthikey Saxena's github stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical)
