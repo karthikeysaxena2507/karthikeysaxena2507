@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Karthikey Saxena , an Aspiring Software Engineer.
+
 
 ![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)
 
@@ -11,18 +12,4 @@
 [![](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/kartikey.saxena.71/)
 [![](https://img.icons8.com/fluent/48/000000/programming.png)](https://codeforces.com/profile/KarthikeySaxena)
 
-[My Portfolio](https://karthikey-saxena.netlify.app/)
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [My Portfolio](https://karthikey-saxena.netlify.app/)
