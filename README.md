@@ -33,7 +33,6 @@
 <code><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=black" /></code>
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></code>
 </p>
 
 
@@ -56,5 +55,4 @@
 [![](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/karthikeysaxena/)
 [![](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/kartikey.saxena.71/)
 
-### My Portfolio:
-#### [Karthikey Saxena](https://karthikey-saxena.netlify.app/)
+### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/)
