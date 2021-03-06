@@ -10,6 +10,8 @@
  </i>
 </p>
 
+---
+
 ### About Me:
 
 - 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
@@ -17,6 +19,8 @@
 - 👨‍I like to solve real life problems and interested in competitive programming
 - 💻I am a Full Stack/Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
+
+---
 
 ### Worked With:
 
@@ -37,6 +41,7 @@
 <code><img height="40" src="https://img.shields.io/badge/cubejs-%234ea94b.svg?&style=for-the-badge&logo=cubejs&logoColor=white" /></code>
 </p>
 
+---
 
 ### GitHub Stats:
 <p align="center">
@@ -45,12 +50,16 @@
   </a>
 </p>
 
+---
+
 ### Top Languages: 
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical" align="center" />
   </a>
 </p>
+
+---
 
 ### Find Me On:
 <p align="center">
@@ -64,5 +73,7 @@
    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" align="center" />
  </a>
 </p>
+
+---
 
 ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/)
