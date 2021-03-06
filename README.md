@@ -53,8 +53,16 @@
 </p>
 
 ### Find Me On:
-[![](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/karthikey-saxena-69944b177/)
-[![](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/karthikeysaxena/)
-[![](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/kartikey.saxena.71/)
+<p align="center">
+ <a href="https://www.linkedin.com/in/karthikey-saxena-69944b177/">
+   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" align="center" />
+ </a>
+ <a href="https://www.instagram.com/karthikeysaxena/">
+   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" align="center" />
+ </a>
+ <a href="https://www.facebook.com/kartikey.saxena.71/">
+   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" align="center" />
+ </a>
+</p>
 
 ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/)
