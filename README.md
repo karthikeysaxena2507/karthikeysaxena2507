@@ -15,7 +15,7 @@
 - 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 💻 I worked as a Software Engineer Intern at <a href="https://www.trilyo.com/"> Trilyo </a> <i> (Dec 2020 - Feb 2021) </i>
 - 👨‍I like to solve real life problems and interested in competitive programming
-- 👨‍I am a Full Stack/Software Developer enthusiast
+- 💻I am a Full Stack/Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
 
 ### Worked With:
