@@ -74,10 +74,8 @@
  </a>
 </p>
 
----
+<!--- ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/) -->
 
-### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/)
-
-#### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena)
+<!--- #### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena) -->
 
 <!--- 💻 I worked as a Software Engineer Intern at <a href="https://www.trilyo.com/"> Trilyo </a> <i> (Dec 2020 - Feb 2021) </i> -->
