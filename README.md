@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/github/followers/karthikeysaxena2507?style=social"/>
 
-![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)
+<!---![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)--->
 
 <p>
  <i>
@@ -27,19 +27,15 @@
 <code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
 <code><img height="40" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
-<code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/git-%234ea94b.svg?&style=for-the-badge&logo=git&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=blue" /></code>
-<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>  
-<code><img height="40" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/heroku-%234ea94b.svg?&style=for-the-badge&logo=heroku&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=black" /></code>
-<code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+<code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=blue" /></code>
+<code><img height="40" src="https://img.shields.io/badge/git-%234ea94b.svg?&style=for-the-badge&logo=git&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>  
+<code><img height="40" src="https://img.shields.io/badge/heroku-%234ea94b.svg?&style=for-the-badge&logo=heroku&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=black" /></code>
 </p>
 
 ---
