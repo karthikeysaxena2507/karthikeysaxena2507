@@ -24,18 +24,18 @@
 ### Worked With:
 
 <p>
-<code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
-<code><img height="40" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+<code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 <code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
-<code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=blue" /></code>
-<code><img height="40" src="https://img.shields.io/badge/git-%234ea94b.svg?&style=for-the-badge&logo=git&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>  
-<code><img height="40" src="https://img.shields.io/badge/heroku-%234ea94b.svg?&style=for-the-badge&logo=heroku&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=ff4d4d" /></code>  
+<code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
+ <code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=black" /></code>
+<code><img height="40" src="https://img.shields.io/badge/kubernetes-%2300599C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></code>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical&count_private=true"/>
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 ### Top Languages: 
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,C&theme=radical&layout=compact" align="center" />
   </a>
 </p>
 
@@ -71,8 +71,5 @@
  </a>
 </p>
 
-<!--- ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/) -->
-
-<!--- #### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena) -->
-
-<!--- 💻 I worked as a Software Engineer Intern at <a href="https://www.trilyo.com/"> Trilyo </a> <i> (Dec 2020 - Feb 2021) </i> -->
+<!-- ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/) -->
+<!-- ### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena) -->
