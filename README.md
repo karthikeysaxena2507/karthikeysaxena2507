@@ -52,7 +52,7 @@
 ### Top Languages: 
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,C&theme=radical&layout=compact" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,Mustache&theme=radical&layout=compact" align="center" />
   </a>
 </p>
 
