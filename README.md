@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/github/followers/karthikeysaxena2507?style=social"/>
 
-<!---![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)--->
-
 <p>
  <i>
     I am an aspiring software engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
@@ -15,28 +13,53 @@
 ### About Me:
 
 - 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍I like to solve real life problems and interested in competitive programming
-- 💻I am a Full Stack/Software Developer enthusiast
+- 👨‍ I like to solve real life problems and interested in competitive programming
+- 💻 I am a Full Stack/Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
 
 ---
 
 ### Worked With:
 
-<p>
-<code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
-<code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
+Languages:
+
+<div align="center">
+
 <code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
-<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=ff4d4d" /></code>  
+ 
+</div>
+
+Technologies:
+
+<div align="center">
+
+<code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+<code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
-<code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white&color=ff4d4d" /></code>
+ 
+</div>
+ 
+Databases:
+ 
+<div align="center">
+ 
+<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white&color=ff4d4d" /></code>
+ 
+</div>
+
+Devops:
+
+<div align="center">
+ 
+<code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/kubernetes-%2300599C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></code>
-</p>
+
+</div>
 
 ---
 
@@ -73,3 +96,4 @@
 
 <!-- ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/) -->
 <!-- ### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena) -->
+<!-- Profile views-![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)- -->
