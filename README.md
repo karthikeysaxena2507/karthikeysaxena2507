@@ -4,7 +4,7 @@
 
 <p>
  <i>
-    I am an aspiring software engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+    I am a software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
  </i>
 </p>
 
@@ -94,6 +94,12 @@ Devops:
  </a>
 </p>
 
-<!-- ### My Portfolio: [Karthikey Saxena](https://karthikey-saxena.netlify.app/) -->
-<!-- ### Codeforces Handle: [KarthikeySaxena](https://codeforces.com/profile/KarthikeySaxena) -->
-<!-- Profile views-![](https://komarev.com/ghpvc/?username=karthikeysaxena2507&color=green)- -->
+---
+
+### Relevant Links:
+
+* [My Portfolio](https://karthikey-saxena.netlify.app/)
+
+* [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
+
+* [My Resume](https://drive.google.com/file/d/1BpCzmwmx61mA18lW2HjlAdEYrgQRTpcM/view?usp=sharing)
