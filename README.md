@@ -102,4 +102,4 @@ Devops:
 
 * [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
 
-* [My Resume](https://drive.google.com/file/d/1vhUKtkMNpWaQEi2GCOiZDWR65Bv5brZm/view?usp=sharing)
+* [My Resume](https://drive.google.com/file/d/1ShgD0M7Pj3Sq1qMcLWlT1eYAx4xILsu1/view?usp=sharing)
