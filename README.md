@@ -4,7 +4,7 @@
 
 <p>
  <i>
-    I am a software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+    I am a software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
@@ -48,7 +48,7 @@ Databases:
  
 <code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white&color=ff4d4d" /></code>
+<code><img height="40" src="https://img.shields.io/badge/oracle-%2300f.svg?&style=for-the-badge&logo=oracle&logoColor=white&color=ff4d4d" /></code>
  
 </div>
 
@@ -75,7 +75,7 @@ Devops:
 ### Top Languages: 
 <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,Mustache&theme=radical&layout=compact" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" align="center" />
   </a>
 </p>
 
