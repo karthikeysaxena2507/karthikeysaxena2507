@@ -38,7 +38,11 @@ Technologies:
 <code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 <code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
+
+
 <code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
+<code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
+<code><img height="40" src="https://img.shields.io/badge/kubernetes-%2300599C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></code>
  
 </div>
  
@@ -50,15 +54,6 @@ Databases:
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/oracle-%2300f.svg?&style=for-the-badge&logo=oracle&logoColor=white&color=ff4d4d" /></code>
  
-</div>
-
-Devops:
-
-<div align="center">
- 
-<code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/kubernetes-%2300599C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></code>
-
 </div>
 
 ---
