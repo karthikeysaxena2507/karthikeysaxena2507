@@ -60,10 +60,12 @@ Databases:
 
 ### GitHub Stats:
 
-<span align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical&count_private=true"/>
+ 
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" height=170/>
-</span>
+</div>
 
 ---
 
