@@ -12,7 +12,7 @@
 
 ### About Me:
 
-- 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 🎓 I am currently a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming
 - 💻 I am a Full Stack/Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
@@ -59,33 +59,24 @@ Databases:
 ---
 
 ### GitHub Stats:
-<p align="center">
-  <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical&count_private=true"/>
-  </a>
-</p>
 
----
-
-### Top Languages: 
-<p align="center">
-  <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css,Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" align="center" />
-  </a>
-</p>
+<span align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" height=170/>
+</span>
 
 ---
 
 ### Find Me On:
 <p align="center">
  <a href="https://www.linkedin.com/in/karthikey-saxena-69944b177/">
-   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" align="center" />
+   <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60">
  </a>
  <a href="https://www.instagram.com/karthikeysaxena/">
-   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" align="center" />
+   <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60">
  </a>
  <a href="https://www.facebook.com/kartikey.saxena.71/">
-   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" align="center" />
+   <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60">
  </a>
 </p>
 
