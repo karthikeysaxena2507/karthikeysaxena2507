@@ -90,4 +90,4 @@ Databases:
 
 * [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
 
-* [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing)
+<!-- * [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing) -->
