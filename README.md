@@ -4,7 +4,7 @@
 
 <p>
  <i>
-    I am a software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a full stack developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
@@ -60,12 +60,24 @@ Databases:
 
 ### GitHub Stats:
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical&count_private=true"/>
+<p align="centre">
  
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" height=170/>
-</div>
+ <div align = "center">
+  
+  <a href="https://github.com/karthikeysaxena2507" title="Redirect's to Karthikey's Github">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
+
+  <a href="https://github.com/karthikeysaxena2507">
+  <img width="45%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
+  
+  </div>
+
+ <div align = "center">
+  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+  </div>
+
+</p>
 
 ---
 
@@ -90,4 +102,4 @@ Databases:
 
 * [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
 
-<!-- * [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing) -->
+* [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing)
