@@ -12,8 +12,8 @@
 
 ### About Me:
 
-- 💻 I am a Software engineer at <a href="https://www.oracle.com/"> Oracle Corporation </a>
-- 🎓 I am currently an undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 💻 I am currently working as a Software engineer at <a href="https://www.oracle.com/"> Oracle Corporation </a>
+- 🎓 I am an undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming
 - 💻 I am a Full Stack/Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
