@@ -4,7 +4,7 @@
 
 <p>
  <i>
-    I am a full stack developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a software developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
@@ -12,11 +12,10 @@
 
 ### About Me:
 
-- 💻 I am currently working as a Software engineer at <a href="https://www.oracle.com/"> Oracle Corporation </a>
-- 🎓 I am an undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍ I like to solve real life problems and interested in competitive programming
-- 💻 I am a Full Stack/Software Developer enthusiast
-- ⚡ I am looking to collaborate with people and enhance my skills as a developer
+- 💻 I am currently working as an Applications Engineer at <a href="https://www.oracle.com/"> Oracle Corporation </a>.
+- 🎓 I did my Bachelor of Technology from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
+- 👨‍ I like to solve real life complex problems, doing competitive programming and software development.
+- ⚡ I am always on a look to collaborate with people and enhance my skills as a developer.
 
 ---
 
@@ -36,14 +35,13 @@ Technologies:
 
 <div align="center">
 
+<code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
-<code><img height="40" src="https://img.shields.io/badge/spring-%234ea94b.svg?&style=for-the-badge&logo=spring&logoColor=white" /></code>
 
-
+<code><img height="40" src="https://img.shields.io/badge/hibernate-%2300599C.svg?&style=for-the-badge&logo=hibernate&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/docker-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white" /></code>
-<code><img height="40" src="https://img.shields.io/badge/kubernetes-%2300599C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></code>
  
 </div>
  
@@ -84,7 +82,7 @@ Databases:
 
 ### Find Me On:
 <p align="center">
- <a href="https://www.linkedin.com/in/karthikey-saxena-69944b177/">
+ <a href="https://www.linkedin.com/in/karthikey-saxena/">
    <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60">
  </a>
  <a href="https://www.instagram.com/karthikeysaxena/">
@@ -101,6 +99,8 @@ Databases:
 
 * [My Portfolio](https://karthikey-saxena.netlify.app/)
 
+* [My Leetcode Profile](https://leetcode.com/karthikeysaxena/)
+
 * [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
 
-* [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing)
+* [My Resume](https://drive.google.com/file/d/1Ek9ah6bvv5Fb8b5UFCnyXbWGqIVpyC9O/view?usp=sharing)
