@@ -103,4 +103,4 @@ Databases:
 
 * [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
 
-* [My Resume](https://drive.google.com/file/d/1Ek9ah6bvv5Fb8b5UFCnyXbWGqIVpyC9O/view?usp=sharing)
+* [My Resume](https://drive.google.com/file/d/1ePJCS5P1VRgTfN48SexN7h65lMHiHJEf/view?usp=sharing)
