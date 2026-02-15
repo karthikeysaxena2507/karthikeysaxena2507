@@ -12,7 +12,7 @@
 
 ### About Me:
 
-- 💻 I am currently working as an Applications Engineer at <a href="https://www.oracle.com/"> Oracle Corporation </a>.
+- 💻 I am currently working as an SDE II at Meesho.
 - 🎓 I did my Bachelor of Technology from <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a> in 2022.
 - 👨‍ I like to solve real life complex problems, doing competitive programming and software development.
 - ⚡ I am always on a look to collaborate with people and enhance my skills as a developer.
